@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻☺️ Ingeniera de sistemas, desarrolladora Front<br>End y Data Scientist, apasionada por la<br>tecnología, cuento con capacidad para<br>trabajar en equipo, resolución de problemas,<br>aprendizaje continuo y muy creativa, lo cual<br>me permite desempeñarme de manera eficaz<br>en los proyectos asignados. Actualmente me<br>encuentro interesada en continuar<br>desarrollando mi carrera dentro del área IT.
+💻☺️ Ingeniera de sistemas, desarrolladora Front End y Data Scientist, apasionada por la tecnología, cuento con capacidad para trabajar en equipo, resolución de problemas,aprendizaje continuo y muy creativa, lo cual me permite desempeñarme de manera eficaz en los proyectos asignados. Actualmente me encuentro interesada en continuar desarrollando mi carrera dentro del área IT.
 
 
 ## 🌐 Socials:
